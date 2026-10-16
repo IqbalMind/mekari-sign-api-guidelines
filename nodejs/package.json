@@ -1,0 +1,22 @@
+{
+  "name": "mekari-sign-nodejs",
+  "version": "1.0.0",
+  "description": "Mekari Sign (e-Sign & e-Meterai) API HMAC-SHA256 integration example in Node.js",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "mekari",
+    "sign",
+    "esign",
+    "emeterai",
+    "hmac",
+    "api"
+  ],
+  "author": "Mekari API Guidelines",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
