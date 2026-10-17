@@ -148,6 +148,10 @@ Request one or more parties to sign a document electronically with optional e-KY
 }
 ```
 
+> 🌟 **Real Document Example (2 Signers)**:  
+> See the complete real-world implementation with a 4-page MoU PDF, 2 signers, and signature placements on Page 4 in [`example-doc/`](./example-doc).
+
+
 ### 2. e-Meterai Stamping (Digital Stamp)
 Affix an official Peruri digital stamp (e-Meterai) to invoices or agreements (mandated for transactions > Rp 5,000,000):
 - **Endpoint**: `POST /v2/esign-hmac/v1/documents/stamp`
